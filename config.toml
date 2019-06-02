@@ -16,7 +16,7 @@ languageCode = "en-us"
 title = "Shyam Rathi"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
-#googleAnalytics = "UA-140822118-1"
+googleAnalytics = "UA-140822118-1"
 paginate = 7
 canonifyurls = true
 
@@ -156,7 +156,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "/favicon.ico"
+  favicon = "/favicon.png"
 
   # Header configuration
   # The link at the right of the header is customizable

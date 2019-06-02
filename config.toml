@@ -157,7 +157,7 @@ canonifyurls = true
 
   # Your favicon path, default is "/favicon.png"
   favicon = "/favicon.ico"
-d
+
   # Header configuration
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.

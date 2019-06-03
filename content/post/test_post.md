@@ -10,22 +10,7 @@ tags:
 - tag4
 ---
 
-Test post for website.
+**Test post for website.**
+<br/><br/>
 
-2nd line for test post.
-
-Test post for website.
-
-2nd line for test post.
-
-Test post for website.
-
-2nd line for test post.
-
-Test post for website.
-
-2nd line for test post.
-
-Test post for website.
-
-2nd line for test post.
+{{< youtube w7Ft2ymGmfc >}}

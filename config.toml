@@ -54,7 +54,7 @@ canonifyurls = true
   weight = 2
   identifier = "post"
   name = "Blog"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\" title='Blog'></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\" title='Posts'></i>"
   url = "/post"
 [[menu.main]]
   weight = 3
@@ -99,7 +99,7 @@ canonifyurls = true
   # Customize date format use to render blog post date, categories and other
   # You must use date format used by Go Time package https://golang.org/pkg/time/
   # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
-  # Default format is: January 2, 2006 
+  # Default format is: January 2, 2006
   # dateFormat = "02 January 2006"
 
   # Global keywords configuration. Following keywords will be add to every pages
@@ -112,7 +112,7 @@ canonifyurls = true
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = false
 
-  # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
+  # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
   hierarchicalCategories = false
 
@@ -193,11 +193,6 @@ canonifyurls = true
     name = "Twitter"
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
-
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""

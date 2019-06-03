@@ -22,3 +22,11 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
+
+# Commit the blog repo now
+git add .
+git commit -m "$msg" -s
+
+# Push to blog repo
+git push origin master
+

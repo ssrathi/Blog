@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://ssrathi.netlify.com/* https://www.rathi.dev/:splat 301!

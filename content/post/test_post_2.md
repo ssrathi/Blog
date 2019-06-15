@@ -8,7 +8,6 @@ tags:
 - tag2
 - tag3
 - tag4
-draft: true
 
 ---
 # Test Post from Forestry

@@ -1,7 +1,6 @@
 ---
-title: "Test Post 2"
-date: 2019-06-01T23:16:23-07:00
-draft: false
+title: Test Post 2
+date: 2019-06-02T06:16:23.000+00:00
 categories:
 - projects
 - programming
@@ -9,18 +8,9 @@ tags:
 - tag2
 - tag3
 - tag4
+draft: true
+
 ---
+# Test Post from Forestry
 
-Test post second for website
-
-Test post second for website
-
-Test post second for website
-
-Test post second for website
-
-Test post second for website
-
-Test post second for website
-
-Test post second for website
+Trying out editing a post from forestry.io

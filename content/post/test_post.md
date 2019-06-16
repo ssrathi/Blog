@@ -18,7 +18,7 @@ I Love You!
 
 <!--more-->
 
-{{< figure src="/images/swati.jpg" title="I'm so so sorry!" >}}
+{{< figure src="/images/swati.jpg" title="I Love You!" >}}
 
 <!-- {{< image classes="fancybox fig-20" src="image2.png"
 	thumbnail="/images/swati.jpg" group="group:family"

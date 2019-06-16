@@ -6,9 +6,22 @@ categories:
 - family
 tags:
 - family
+thumbnailImage: /images/swati.jpg
+comments: true
 ---
 
 **Swati - My life!**
-<br/><br/>
+
+{{< hl-text purple >}}
+I Love You!
+{{< /hl-text >}}
+
+<!--more-->
 
 {{< figure src="/images/swati.jpg" title="I'm so so sorry!" >}}
+
+<!-- {{< image classes="fancybox fig-20" src="image2.png"
+	thumbnail="/images/swati.jpg" group="group:family"
+	title="A beautiful sunrise" >}}
+ -->
+<br/><br/>

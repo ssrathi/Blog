@@ -1,16 +1,14 @@
 ---
-title: "Test Post"
+title: "Swati!"
 date: 2019-06-01T23:16:06-07:00
 draft: false
 categories:
-- projects
+- family
 tags:
-- tag1
-- tag3
-- tag4
+- family
 ---
 
-**Test post for website.**
+**Swati - My life!**
 <br/><br/>
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< figure src="/images/swati.jpg" title="I'm so so sorry!" >}}

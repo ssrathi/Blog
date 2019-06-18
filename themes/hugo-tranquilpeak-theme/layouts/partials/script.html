@@ -56,19 +56,24 @@ $(document).ready(function() {
             this.page.identifier = '{{ .URL | relURL }}'
           {{ end }}
         };
-        (function() {
+
+        var is_disqus_loaded = false;
+        function loadDisqus() {
           // Don't ever inject Disqus on localhost--it creates unwanted
           // discussions from 'localhost:1313' on your Disqus account...
           if (window.location.hostname == "localhost") {
             return;
           }
-          var d = document, s = d.createElement('script');
-          var disqus_shortname = '{{ .Site.DisqusShortname }}';
-          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+          if (!is_disqus_loaded) {
+            is_disqus_loaded = true;
+            var d = document, s = d.createElement('script');
+            var disqus_shortname = '{{ .Site.DisqusShortname }}';
+            s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-        })();
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+          }
+        };
       </script>
     {{ end }}
   {{ end }}

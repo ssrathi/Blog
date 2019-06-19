@@ -18,7 +18,7 @@ I Love You!
 
 <!--more-->
 
-{{< figure src="/images/swati.jpg" title="I Love You!" >}}
+{{< figure src="swati.jpg" title="I Love You!" >}}
 
 {{< imgproc "swati.jpg" Resize "300x" "Resize 300x"/>}}
 {{< imgproc "swati.jpg" Fill "200x200 Top" "Fill 200x200"/>}}

@@ -1,29 +1,21 @@
 ---
-title: "Swati!"
+title: "Test Post!"
 date: 2019-06-18T23:14:06-07:00
 draft: false
 categories:
-- family
+- test
 tags:
-- family
-thumbnailImage: /images/thumbnails/swati_thumb.jpg
+- test
 comments: true
 ---
 
-**Swati - My life!**
+**Test Post!**
 
 {{< hl-text purple >}}
-I Love You!
+Test Title
 {{< /hl-text >}}
 
 <!--more-->
-
-<!-- {{< figure src="swati.jpg" title="I Love You!" >}} -->
-
-{{< img name="swati.jpg" alt="A couple in Hawaii." caption="image-bundle test" >}}
-
-{{< imgproc "swati.jpg" Resize "300x" "Resize 300x"/>}}
-{{< imgproc "swati.jpg" Fill "200x200 Top" "Fill 200x200"/>}}
-{{< imgproc "swati.jpg" Fit "100x220 left" "Fit 100x220 left"/>}}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere eros sed felis interdum semper. Ut quis lacus sodales, fringilla arcu nec, mollis mi. Morbi vitae orci tempus, rhoncus est a, accumsan nibh. Aenean vestibulum orci sagittis, hendrerit tortor a, vestibulum sem. Proin ut dolor ac magna malesuada rhoncus nec vitae est. In justo lectus, dapibus vitae interdum eget, varius a nunc. Cras risus augue, pulvinar eget placerat ut, rutrum nec risus. Nunc consequat urna libero, vel vulputate metus lacinia eu.
 
 <br/><br/>

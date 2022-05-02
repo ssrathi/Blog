@@ -43,7 +43,7 @@ enableRobotsTXT = true
   identifier = "resume"
   name = "Resume"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-pdf-o\" title='Resume'></i>"
-  url = "/docs/resume.pdf"
+  url = "/docs/resume-shyamsunder-2022.pdf"
 [[menu.main]]
   weight = 30
   identifier = "categories"

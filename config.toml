@@ -22,8 +22,8 @@ enableRobotsTXT = true
   archive = "archives"
 
 [author]
-  name = "Shyam Rathi"
-  bio = "A software engineer from the Silicon Valley, California."
+  name = "Shyamsunder Rathi (Shyam)"
+  bio = "Experienced backend engineer, technical leader and people manager with a history of building teams, products and features. From the Silicon Valley, California."
   job = "Sr. Manager of Engineering at Nutanix, San Jose"
   location = "California, USA"
   # gravatarEmail = "shyam29@gmail.com"
